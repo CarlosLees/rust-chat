@@ -1,0 +1,5 @@
+server:
+  port: 6688
+
+notify:
+  port: 7799
