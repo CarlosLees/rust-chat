@@ -3,6 +3,7 @@ mod error;
 mod handlers;
 mod models;
 mod router;
+mod utils;
 
 use crate::config::AppConfig;
 use crate::models::User;
